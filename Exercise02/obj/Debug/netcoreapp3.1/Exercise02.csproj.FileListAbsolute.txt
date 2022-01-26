@@ -1,0 +1,13 @@
+F:\24.01 oaip\Exercise02\bin\Debug\netcoreapp3.1\Exercise02.exe
+F:\24.01 oaip\Exercise02\bin\Debug\netcoreapp3.1\Exercise02.deps.json
+F:\24.01 oaip\Exercise02\bin\Debug\netcoreapp3.1\Exercise02.runtimeconfig.json
+F:\24.01 oaip\Exercise02\bin\Debug\netcoreapp3.1\Exercise02.runtimeconfig.dev.json
+F:\24.01 oaip\Exercise02\bin\Debug\netcoreapp3.1\Exercise02.dll
+F:\24.01 oaip\Exercise02\bin\Debug\netcoreapp3.1\Exercise02.pdb
+F:\24.01 oaip\Exercise02\obj\Debug\netcoreapp3.1\Exercise02.csprojAssemblyReference.cache
+F:\24.01 oaip\Exercise02\obj\Debug\netcoreapp3.1\Exercise02.AssemblyInfoInputs.cache
+F:\24.01 oaip\Exercise02\obj\Debug\netcoreapp3.1\Exercise02.AssemblyInfo.cs
+F:\24.01 oaip\Exercise02\obj\Debug\netcoreapp3.1\Exercise02.csproj.CoreCompileInputs.cache
+F:\24.01 oaip\Exercise02\obj\Debug\netcoreapp3.1\Exercise02.dll
+F:\24.01 oaip\Exercise02\obj\Debug\netcoreapp3.1\Exercise02.pdb
+F:\24.01 oaip\Exercise02\obj\Debug\netcoreapp3.1\Exercise02.genruntimeconfig.cache
